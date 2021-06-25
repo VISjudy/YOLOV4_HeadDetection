@@ -1,0 +1,8 @@
+classes= 1
+#train  = D:/VSLib/darknet/build_610/darknet/x64/data/2007_train.txt
+train  = data/2007_train.txt
+#train = E:/MSCOCO/5k.txt
+valid  = data/2007_val.txt
+names = cfg/head.names
+backup = backup
+
